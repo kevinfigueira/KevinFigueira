@@ -1,4 +1,4 @@
-## Hi there, I'm Kevin Figueira 👋 <img src="https://komarev.com/ghpvc/?username=kevinfigueira&color=green" alt="kevinfigueira" /> 
+## Hi, I'm Kevin Figueira 👋 <img src="https://komarev.com/ghpvc/?username=kevinfigueira&color=green" alt="kevinfigueira" /> 
 🔭 **Currently work:** CCTV monitor;
 
 :man_student: **Studying:** Analysis and Systems Development at [UniCdoSul](https://www.cruzeirodosul.edu.br/);
