@@ -1,5 +1,11 @@
-## Olá, Sou Kevin Figueira 👋
+## Hi there, I'm Kevin Figueira 👋
+🔭 **Currently work:** CCTV monitor;
 
+:man_student: **Studying:** Analysis and Systems Development at [UniCdoSul](https://www.cruzeirodosul.edu.br/);
+
+:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+
+<img src="https://komarev.com/ghpvc/?username=kevinfigueira&color=green" alt="kevinfigueira" /> 
 <div>
   <a href="https://github.com/kevinfigueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinfigueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
