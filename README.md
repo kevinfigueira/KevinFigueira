@@ -8,9 +8,9 @@
 <div>
   <a href="https://github.com/kevinfigueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinfigueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfigueira&theme=dark&" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfigueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <h3 align="center">Atualmente estou estudando</h3>
+  <hr>
   
 <div align="center" style="display: inline_blocstyle="border-radius:2;"k">
   <img align="center" alt="kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,6 @@
   <img align="center" alt="kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<br>
 <h3 align="center" >Minhas rede sociais</h3>
   
 <div align="center">
